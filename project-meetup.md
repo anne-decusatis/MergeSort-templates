@@ -7,6 +7,7 @@ Bring a project that you want to work on, if you have one - if not, come to see 
 (Optional: fun details specific to this meetup)
 
 Accessibility: [[Location of gender-neutral restrooms]] [[Info about stairs/elevators at venue]]
+
 (Example: Accessibility: We will be rebranding the restrooms as gender-inclusive; please let us know if you encounter any problems with this. There is an elevator, so no climbing stairs is necessary.)
 
 Note: We are a space for nonbinary people and women (trans and gender nonconforming inclusive), if you identify as male please get in contact with the organizers before showing up.
